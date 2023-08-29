@@ -1,2 +1,5 @@
-# TypeScript-Act1
-Activité TypeScript pour la promo PE6 (Exercice 1)
+# Exercice JavaScript : Mini-Quiz à Choix Multiples
+
+Créez un jeu de quiz à choix multiples avec plusieurs questions.
+Affichez les questions une par une, demandez la réponse de l'utilisateur et tenez compte des réponses correctes.
+Montrez le score total à la fin du quiz.
